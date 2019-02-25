@@ -6,3 +6,4 @@ fea2
 fea2 c2
 
 caso 1
+caso2
