@@ -14,3 +14,5 @@ YT-1
 Fix for the release V0.1.0
 
 hotfix
+
+Commit for release V0.2.0
